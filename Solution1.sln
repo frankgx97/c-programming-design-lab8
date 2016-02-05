@@ -1,0 +1,13 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4147BDC5-3698-4CE4-9FAC-8BC07E784E78}"
+	ProjectSection(SolutionItems) = preProject
+		..\20151224\15080120_lab8.c = ..\20151224\15080120_lab8.c
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
